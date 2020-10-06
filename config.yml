@@ -1,0 +1,10 @@
+ServerPrefix: '&7[&c&lAnti&d&lXRay&7]&r'
+
+#Select the wait between periods (in minutes)
+#I recommend not going less than 5 and not going more than 20
+#If you set it to something like 1 it will not work properly
+#Stop the server before changing this setting otherwise it will cause bugs.
+WaitBetween: 10
+
+#Messages
+PlayerSuspicious: '&c%player% &ehas been suspected of using &cXRay'
